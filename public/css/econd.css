@@ -1,0 +1,33 @@
+#po1{
+      
+      
+      margin-top:300px;
+      
+
+}
+#ty{
+    
+  background:red;
+  width:30%S;
+    
+}
+a{
+    text-decoration:none;
+    color:#42d1f4;
+    
+}
+body{
+      
+  background-image: url("maarten-van-den-heuvel-73123-unsplash.jpg"); /* The image used */
+ background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  
+  font-size:30px;
+  font-weight:50px;
+  font-family: 'Bangers', cursive;
+  color:#42d1f4;
+ 
+}

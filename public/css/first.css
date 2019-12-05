@@ -1,0 +1,279 @@
+
+input{
+  
+  border: 3px solid black;
+  border-radius: 7px;
+  height: 50px;
+  width: 300;
+}
+.ab{
+  
+ width:18px ;
+  height:20px ;
+}
+  input[type="checkbox"]{
+    
+  width: 23px;
+  height: 40px;
+  margin: 10px 20px;
+
+  
+  }
+  
+#yu{
+  
+  font-size: 20px;
+  
+}
+label{
+  
+  font-size: 20px;
+}
+#ops,#io,#ep,#ui,#p,#lp {
+  border: 2px solid #c7c9cc;
+  margin-top: 20px;
+  background:#f4f6f9 ;
+  color: black;
+  border-radius: 5px;
+  padding: 5px 10px 15px 20px;
+  width: 50%;
+  margin-left: 310px;
+
+  
+}
+#hu{
+  
+  border: 2px solid black;
+  background: #c7c9cc;
+  padding: 0px 0px 0px 0px;
+  border-radius: 5px;
+  margin-top: 50px;
+  width: 52.3%;
+  margin-left: 310px;
+  color: black;
+}
+body{
+  background: white;
+}
+#tet{
+  font-size: 100px;
+  
+  
+}
+  #tets{
+     font-size: 10px;
+  margin-left: 
+    
+  
+  }  
+.button {
+  background-color: black; /* Green */
+  border: 3px solid #76f2e5;
+  border-radius: 10px;
+  color: white;
+  padding: 16px 32px;
+  font-size: 15px;
+ }
+select{
+  
+  height: 50px;
+  width: 14%;
+  border: 3px solid #76f2e5;
+  background: black;
+  color: white;
+  border-radius: 7px;
+    
+}
+
+h2{
+ font-size: 30px;
+ margin-left: 310px;
+  
+}
+h1{
+  
+  font-size: 30px;
+  margin-top: 0px;
+  
+  
+}
+
+#gh{
+  
+  
+  border: 0px solid black;
+  
+}
+#gh a{
+  
+  color: grey;
+  float: center;
+  padding:30px;
+  text-decoration: none;
+  font-size: 18px;
+  margin-top: 30px;
+  margin-left: 10px;
+  
+  
+  
+
+}
+
+#lof{
+
+
+padding: 60px;
+margin-top: 30px;
+border: 1px solid grey;
+background: black;
+height: 80px;
+width: 100%;
+margin-left: -3%;
+float: left;
+
+
+}
+#pl a{
+
+text-decoration: none;
+font-size: 30px;
+margin-left: 80px;
+margin-top: 60px;
+
+}
+
+#ko{
+
+  font-size: 30px;
+  margin-left: 300px;
+}
+#pf{
+
+
+margin-left: 200px;
+margin-top: -140px;
+font-size: 20px;
+
+
+}
+#pf a{
+
+  text-decoration:none;
+  padding:30px;
+  color:black;
+
+}
+
+#red{
+
+
+height: 145px;
+background: white;
+}
+
+.hu p{
+font-size: 25px;
+font-family: 'Concert One', cursive;
+width:50%;
+color: black;
+background: white;
+border-radius: 13px;
+
+
+}
+
+#pf input{
+  margin-left: 915px;
+  background: white;
+
+  
+}
+#xc{
+
+height: 57px;
+border:1px solid black;
+width:40px;
+border-radius: 5px;
+float:right;
+
+
+
+
+}
+
+table td{
+
+border:1px solid grey;
+background-color: black;
+padding:200px;
+width:30px;
+
+
+}
+
+
+table{
+  border: 3px  grey;
+  float: right;
+  margin-top: -1080px;
+}
+ table p{
+color: white;
+font-size: 33px;
+font-family: font-family: 'Concert One', cursive;
+font-family: 'Cinzel', serif;
+font-family: 'Fredoka One', cursive;
+font-weight: 50px;
+
+ }
+ table h4{
+
+  color:white;
+   font-family: 'Rancho', cursive;
+ }
+
+ #lodu{
+
+  margin-left: 150px;
+
+  
+  
+ }
+
+ #loved{
+font-family: 'Press Start 2P', cursive;
+  }
+
+  
+
+  .h8{
+font-size: 30px;
+    color:white;
+    font-family: 'Cinzel', serif;
+    padding: 15px;
+    border: 1px solid grey;
+    margin:10px;
+    background: black;
+    margin-left: 300px;
+    width:30%;
+    border-radius: 20px;
+
+
+  }
+
+  .h7{
+font-size: 30px;
+    color:white;
+    font-family: 'Cinzel', serif;
+    padding: 15px;
+    border: 1px solid grey;
+    margin:10px;
+    background: black;
+    margin-left: -40px;
+    width:30%;
+    border-radius: 20px;
+
+
+  }
+  
+  
